@@ -1,0 +1,3 @@
+- Hi, I’m @fald
+- I’m interested in data science in general, and machine learning more specifically.
+- I’m currently learning Flask through a long-term plan to build a fully-featured project tracker. I figured, like many of us, I have so many peojects to keep track of, so why not pick up some new skills while solving that?
